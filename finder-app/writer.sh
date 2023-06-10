@@ -30,6 +30,6 @@ fi
 
 # touch $dir
 
-echo $str >> $dir
+echo $str > $dir
 
 exit 0
